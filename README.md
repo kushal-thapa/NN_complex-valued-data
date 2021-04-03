@@ -1,5 +1,5 @@
 # NN_complex-valued-data
-Performance comparison of time-series, magnitude spectrogram and rectangular spectrogram datasets in a simple Neural Network
+## Performance comparison of time-series, magnitude spectrogram and rectangular spectrogram datasets in a simple Neural Network
 
 Test1.py script a) creates artificial time-series data of ASK, FSK and PSK signals b) creates magnitude and rectangular spectrograms from the time-series data c) uses time-series, magnitude spectrogram, and rectangular spectrogram dataset in a simple Neural Network
 
